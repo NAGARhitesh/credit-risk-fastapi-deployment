@@ -6,7 +6,6 @@ __pycache__/
 .venv/
 venv/
 artifacts/*.pkl
-artifacts/*.joblib
 .ipynb_checkpoints/
 .idea/
 .vscode/
