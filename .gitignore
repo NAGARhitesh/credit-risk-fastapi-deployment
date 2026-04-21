@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+artifacts/*.pkl
+artifacts/*.joblib
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store

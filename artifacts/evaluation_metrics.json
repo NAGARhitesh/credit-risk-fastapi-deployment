@@ -1,0 +1,12 @@
+{
+    "model": "Tuned RandomForest",
+    "accuracy_default": 0.9305180456665848,
+    "precision_default": 0.9359251259899208,
+    "recall_default": 0.7315700619020822,
+    "f1_default": 0.8212255211623499,
+    "roc_auc": 0.9348565385957393,
+    "accuracy_custom_threshold": 0.9123496194451265,
+    "precision_custom_threshold": 0.8135693215339233,
+    "recall_custom_threshold": 0.7760270118176702,
+    "f1_custom_threshold": 0.7943548387096774
+}
